@@ -10,4 +10,6 @@ keywords_with_stop_words.py: extract top n tags(keywords) while applying stop-wo
 
 JiebaTest.py: segment words from sentences
 
+JiebaTest.knwf: KNIME implementation of Jieba
+
 userdict.txt: user-defined dictionary
